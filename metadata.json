@@ -1,0 +1,5 @@
+{
+  "name": "SALIII - One Click Away",
+  "description": "Location-based service discovery platform connecting users with nearby service providers using AI-powered search and real-time tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
